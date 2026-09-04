@@ -14,6 +14,10 @@ C# .NET 3.5 WinForms library that subclasses ComboBox into an owner-drawn font p
 
 Open `VaderConsulting.FontComboBox.csproj` in Visual Studio 2013 or later (ToolsVersion 12.0). There is no `.sln` in this folder.
 
+## Requirements
+
+- Visual Studio 2013 or later, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting.FontComboBox`. Assembly title/product `VaderConsulting.FontComboBox`; copyright `Copyright ©  2015`; company empty. Namespace `VaderConsulting`.
