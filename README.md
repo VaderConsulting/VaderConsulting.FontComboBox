@@ -20,7 +20,7 @@ Open `VaderConsulting.FontComboBox.csproj` in Visual Studio 2013 or later (Tools
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting.FontComboBox`. Assembly title/product `VaderConsulting.FontComboBox`; copyright `Copyright ©  2015`; company empty. Namespace `VaderConsulting`.
+Working copy from my Historical Dev folder `VaderConsulting.FontComboBox`. Assembly title/product `VaderConsulting.FontComboBox`; copyright `Copyright ©  2015`; company empty. Namespace `VaderConsulting`.
 
 ## License
 
